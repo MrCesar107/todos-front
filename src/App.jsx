@@ -1,9 +1,9 @@
-import './App.css'
+import './App.scss'
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-center mt-4 text-3xl">TODOS APP</h1>
+    <div className="background-blue">
+      <h1 className="text-3xl text-center pt-4 text-white">Inicio</h1>
     </div>
   )
 }
